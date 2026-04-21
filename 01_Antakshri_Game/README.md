@@ -85,12 +85,3 @@ Antakshri_game_file.py
 </p>
 
 <hr>
-
-<h2>🧾 Authorship</h2>
-<p>
-  This project — including the core idea, game logic, and full implementation — was independently designed and developed by  <b>Master-Zero1</b>.
-</p>
-
-<p>
-  AI assistance was used solely for writing and formatting this README file, as this is a beginner project and HTML is still being learned.
-</p>
