@@ -48,15 +48,6 @@
 
 <hr>
 
-<h2>Authorship</h2>
-<p>
-  All projects in this repository are independently designed and implemented by <b>Master-Zero1</b> as part of a structured learning journey.
-</p>
-
-<p>
-  AI assistance may be used occasionally for documentation, formatting, or conceptual clarification. Core logic and implementation remain original work.
-</p>
-
 <hr>
 
 <h2>Future Direction</h2>
