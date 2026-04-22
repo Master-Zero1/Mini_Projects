@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  A Python-based Antakshri game where players name countries based on the last letter of the previous country.
+  A Python-based Antakshri game where players name countries based on the last letter of the previous country.(Time take to make this project : 3 days)
 </p>
 
 <hr>
